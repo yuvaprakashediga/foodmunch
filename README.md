@@ -7,8 +7,7 @@ Demo Video URL: https://youtu.be/YS-HDXSZ6g4
 
 Github Repository URL: https://github.com/yuvaprakashediga/foodmunch
 
-Industry: Lifestyle and Technology
-
+Industry: Lifestyle 
 # Azure Services Used
 1.	Azure Blob storage
 2.	Storage Account

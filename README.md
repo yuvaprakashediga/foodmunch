@@ -2,9 +2,13 @@
 A platform to know the “Delight your taste buds with Food Munch! Explore a world of flavors and satisfy your culinary craving with our diverse collection of restaurants and recipes.”
 # Project Details 
 Project Demo URL: https://foodmunchww.z35.web.core.windows.net/
+
 Demo Video URL: https://youtu.be/YS-HDXSZ6g4
+
 Github Repository URL: https://github.com/yuvaprakashediga/foodmunch
+
 Industry: Lifestyle and Technology
+
 # Azure Services Used
 1.	Azure Blob storage
 2.	Storage Account

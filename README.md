@@ -19,12 +19,18 @@ Azure Blob Storage: Azure Blob Storage is Microsoft's scalable object storage so
 # Azure AI Service
 Azure ChatBot: The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.
 # Screenshots
+![Screenshot 2023-12-21 103354](https://github.com/yuvaprakashediga/foodmunch/assets/123249158/809f7fff-a31d-465d-bdc5-d1d1c59b52e4)
+![Screenshot 2023-12-21 103555](https://github.com/yuvaprakashediga/foodmunch/assets/123249158/05505ede-f688-4e01-98c7-e7403c180027)
+![Screenshot 2023-12-21 103700](https://github.com/yuvaprakashediga/foodmunch/assets/123249158/cc747073-272d-4451-a1db-7b6d781fa7d5)
+![Screenshot 2023-12-21 103628](https://github.com/yuvaprakashediga/foodmunch/assets/123249158/5e8efe48-f806-465f-b248-1c26968362de)
 Azure Static Website Azure Static Website is a hosting service in Microsoft Azure designed for deploying and serving static web content. With features like global content delivery, automatic scaling, and seamless integration with Azure Storage, it provides a reliable and cost-effective solution for hosting HTML, CSS, and JavaScript-based websites with minimal configuration.
 ![Screenshot 2023-12-19 235837](https://github.com/yuvaprakashediga/foodmunch/assets/123249158/5a32d737-c376-4474-94af-4b0137ed39e7)
 Azure Backup Service Azure Backup Service in Microsoft Azure ensures data resilience with automated, scalable backup solutions. Supporting virtual machines, applications, and files, it offers features like long-term retention and geo-redundancy. This service enhances overall data protection, enabling efficient disaster recovery and secure backup management in the Azure cloud environment.
+![Screenshot 2023-12-21 115451](https://github.com/yuvaprakashediga/foodmunch/assets/123249158/0cc54e23-2a35-4c30-969b-2f17dc534a8e)
 Azure ChatBot The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.
 # Working Live Project Display
 Description Here I am attaching the final working website's screenshot for the reference.
 # Resource Visualizer
+![Screenshot 2023-12-21 114036](https://github.com/yuvaprakashediga/foodmunch/assets/123249158/72121d85-331c-4eea-a431-34fc2deb5989)
 # Final Project Statement
 The goal of our Food Munch static website project is to provide a seamless, user-friendly platform where food enthusiasts can discover and explore a curated collection of restaurants, recipes, and food-related content. Our aim is to make the world of food more accessible, celebrating culinary diversity and promoting a shared love for food.

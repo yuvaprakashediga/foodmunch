@@ -22,7 +22,7 @@ Industry: Lifestyle
 1.	Azure Blob storage
 2.	Storage Account
 3.	Azure Backup service
-4.	Static Website
+
 
 # Problem Statement
 To create an attractive static website for Food Munch that showcases their delicious food and provides easy access to information and detail for users. The challenge is to design a website that looks nice, works well on phones and computers, and has lots of information about yummy dishes from around the world. The goal is to make the website so interesting and user-friendly that everyone enjoys discovering and talking about their favorite foods on "Food Munch."

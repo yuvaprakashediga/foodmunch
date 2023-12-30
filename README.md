@@ -4,7 +4,7 @@ A platform to know the “Delight your taste buds with Food Munch! Explore a wor
 ##### 1.Ediga Yuva Prakash
 Created website and managed the website using Html, css, JavaScript, Bootstrap
 ##### 2.Dheeraj Kandala
-Created a AI Azure Service (ChatBot) and attached that azure ai service to the our portal with help of chandrakal
+Created a AI Azure Service (ChatBot) and attached that azure ai service to the our portal with help of chandrakala
 ##### 3.Pravalika Gouni
 Deploying a website in Azure portal using portal with help of yuva Prakash
 ##### 4.U Chandrakala

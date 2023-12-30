@@ -1,4 +1,13 @@
 # Food Munch
+#### Roles
+##### 1.Ediga Yuva Prakash
+Created website and managed the website using Html, css, JavaScript, Bootstrap
+##### 2.Dheeraj Kandala
+Created a AI Azure Service (ChatBot) and attached that azure ai service to the our portal with help of chandrakal
+##### 3.Pravalika Gouni
+Deploying a website in Azure portal using portal with help of yuva Prakash
+##### 4.U Chandrakala
+Adding ai service to our portal 
 A platform to know the “Delight your taste buds with Food Munch! Explore a world of flavors and satisfy your culinary craving with our diverse collection of restaurants and recipes.”
 # Project Details 
 Project Demo URL: https://foodmunchww.z35.web.core.windows.net/

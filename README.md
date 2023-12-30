@@ -55,4 +55,4 @@ Description Here I am attaching the final working website's screenshot for the r
 # Resource Visualizer
 ![Screenshot 2023-12-21 114036](https://github.com/yuvaprakashediga/foodmunch/assets/123249158/72121d85-331c-4eea-a431-34fc2deb5989)
 # Final Project Statement
-The goal of our Food Munch static website project is to provide a seamless, user-friendly platform where food enthusiasts can discover and explore a curated collection of restaurants, recipes, and food-related content. Our aim is to make the world of food more accessible, celebrating culinary diversity and promoting a shared love for food for foodies
+The goal of our Food Munch static website project is to provide a seamless, user-friendly platform where food enthusiasts can discover and explore a curated collection of restaurants, recipes, and food-related content. Our aim is to make the world of food more accessible, celebrating culinary diversity and promoting a shared love for food.

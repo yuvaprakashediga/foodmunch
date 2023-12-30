@@ -2,7 +2,7 @@
 A platform to know the “Delight your taste buds with Food Munch! Explore a world of flavors and satisfy your culinary craving with our diverse collection of restaurants and recipes.”
 #### Roles
 ##### 1.Ediga Yuva Prakash
-Created website and managed the website using Html, css, JavaScript, Bootstrap
+Created website and managed the website using Html, css, JavaScript, Bootstrap and also deploying a website using azure services
 ##### 2.Dheeraj Kandala
 Created a AI Azure Service (ChatBot) and attached that azure ai service to the our portal with help of chandrakala
 ##### 3.Pravalika Gouni
